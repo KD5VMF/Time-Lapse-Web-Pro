@@ -234,7 +234,7 @@ Still, you should:
 ---
 
 ## 📄 License
-Pick a license and drop it in `LICENSE` (MIT is common).
+MIT
 
 ---
 
