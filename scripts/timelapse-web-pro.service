@@ -1,0 +1,13 @@
+[Unit]
+Description=Time-Lapse Web Pro
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/sysop/encTim-Lapse
+ExecStart=/home/sysop/encTim-Lapse/start.sh
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target

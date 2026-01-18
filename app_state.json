@@ -1,0 +1,24 @@
+{
+  "running": false,
+  "current_project_id": "",
+  "current_project_name": "project",
+  "started_at": "",
+  "last_saved": "",
+  "total_saved": 0,
+  "last_error": "",
+  "config": {
+    "camera_index": 0,
+    "resolution_key": 4,
+    "interval_seconds": 60.0,
+    "project_name": "project",
+    "image_ext": "png",
+    "jpg_quality": 92,
+    "autosave_every": 5,
+    "retention_limit": 0,
+    "theme": "neon",
+    "overlay_timestamp": true,
+    "overlay_project": true,
+    "text_scale": 1.0,
+    "text_thickness": 2
+  }
+}
